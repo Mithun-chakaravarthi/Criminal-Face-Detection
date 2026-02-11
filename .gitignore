@@ -1,5 +1,7 @@
-/target/
 /data/
 /models/
-/*.iml
-/.idea/
+/backup_models/
+/target/
+*.xml
+*.yml
+*.bak
